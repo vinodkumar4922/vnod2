@@ -4,3 +4,4 @@ vodi main()
 printf("frst");
 printf("scnd");
 printf("trd");
+printf("frth");
