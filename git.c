@@ -2,5 +2,5 @@
 vodi main()
 {
 printf("frst");
-print("scnd");
-
+printf("scnd");
+printf("trd");
