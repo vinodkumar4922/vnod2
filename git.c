@@ -6,3 +6,5 @@ printf("scnd");
 printf("trd");
 printf("frth");
 printf("fifth");
+
+printf("1st");
