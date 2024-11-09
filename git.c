@@ -2,3 +2,5 @@
 vodi main()
 {
 printf("frst");
+print("scnd");
+
